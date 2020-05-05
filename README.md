@@ -1,6 +1,6 @@
-# SolarEclipse Theme for Nova
+# Six Colors Theme for Nova
 
-A inital Solarized dark theme, tweaked by personal preference over the years. Started as as coda theme, now for [Nova](https://panic.com/nova).
+A inital Six Colors dark theme, forked from the [Solar Eclipse](https://github.com/aaff-se/nova-solareclipse-theme) coda theme, now for [Nova](https://panic.com/nova).
 
 
 #### ToDo
